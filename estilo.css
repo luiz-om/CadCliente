@@ -1,0 +1,43 @@
+header {
+    width: 20%;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#divCad {
+    width: 20%;
+    margin: auto;   
+    border: 1px solid;
+    border-radius: 3px;
+    display: flex;
+    
+    justify-content: center;
+}
+
+#inputs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 1%;
+
+}
+
+#btnEnviar{
+    margin-top: 10px;
+}
+#res{
+   
+    width: 20%;
+    height: auto;
+    margin: auto;   
+    border: 1px solid;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+   
+}
+#btnexcluir{
+    margin: 2px;
+}
