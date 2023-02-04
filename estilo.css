@@ -29,7 +29,7 @@ header {
 }
 #res{
    
-    width: 20%;
+    width: fit-content;
     height: auto;
     margin: auto;   
     border: 1px solid;
@@ -40,4 +40,7 @@ header {
 }
 #btnexcluir{
     margin: 2px;
+}
+#telaDados{
+    width: auto;
 }
